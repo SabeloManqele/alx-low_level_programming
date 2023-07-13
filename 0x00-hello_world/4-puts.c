@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - Hello, puts
- * 
- * Return: 0 (Passed)
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
