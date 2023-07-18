@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * add - adds two integers and returnsthe result
+ * add - adds two integers and returns the result
  *
  * @i: number being added
  *
@@ -12,5 +12,5 @@
  */
 int add(int i, int k)
 {
-	return (i + k);
+return (i + k);
 }
